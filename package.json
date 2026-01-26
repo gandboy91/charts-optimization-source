@@ -12,7 +12,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "humps": "^2.0.1",
     "install-peerdeps": "^2.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "mapbox-gl": "^1.11.0",
     "material-ui": "^0.20.2",
     "prop-types": "^15.7.2",
